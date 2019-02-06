@@ -30,7 +30,7 @@ require 'vendor/autoload.php';
 
 $validator = new DniNieValidator;
 
-if ($validator->isValid('5180536J')) {
+if ($validator->isValid('51820536H')) {
     // valid
 } else {
     // not valid
